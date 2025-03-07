@@ -1,7 +1,11 @@
 {
+  "manifest_version" : "2.2.0",
+  "version_name"  : "pnbnc.1"
+}
+
+{
   "short_name": "React App",
   "name": "Create React App Sample",
-  "version" : "2.1.0",
   "icons": [
     {
       "src": "favicon.ico",
